@@ -10,6 +10,8 @@ Stakeholders lacked a centralized mechanism to monitor overall revenue distribut
 
 ---
 
+### [**Video Demo**](https://youtu.be/WcdfsPAO49A) | [**Dataset**](https://github.com/MuhammadHuzaifaG/Sales-Performance-and-Revenue-Analysis-Excel-Dashboard/tree/main/dataset) | [**Excel Dashboard**](https://github.com/MuhammadHuzaifaG/Sales-Performance-and-Revenue-Analysis-Excel-Dashboard/blob/main/DASHBOARD.PNG)
+
 <img width="879" height="636" alt="11" src="https://github.com/MuhammadHuzaifaG/Sales-Performance-and-Revenue-Analysis-Excel-Dashboard/blob/main/DASHBOARD.PNG" />
 
 ## Solution
