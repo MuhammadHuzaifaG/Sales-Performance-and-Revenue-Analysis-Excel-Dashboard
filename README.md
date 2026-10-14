@@ -10,6 +10,8 @@ Stakeholders lacked a centralized mechanism to monitor overall revenue distribut
 
 ---
 
+<img width="879" height="636" alt="11" src="https://github.com/MuhammadHuzaifaG/Sales-Performance-and-Revenue-Analysis-Excel-Dashboard/blob/main/DASHBOARD.PNG" />
+
 ## Solution
 An interactive Excel-based dynamic reporting dashboard was engineered to streamline data aggregation and visualization. By leveraging structured Excel tables, advanced Pivot Tables, dynamic charts, and synchronized Slicers, the solution automates metric calculations—such as Total Revenue, Total Orders, Total Quantity Sold, and Average Order Value—translating 2,000 raw transaction rows into a clean executive view. This eliminates manual spreadsheet manipulation and provides instant multi-dimensional filtering.
 
@@ -34,6 +36,8 @@ An interactive Excel-based dynamic reporting dashboard was engineered to streaml
 ## Tech Stack
 * **Primary Tool**: Microsoft Excel (Office 365 / Excel 2016+)
 * **Core Features**: Structured Tables (`ListObject`), Pivot Tables, Slicers, Calculated Fields, and Data Validation Rules.
+
+<img width="879" height="636" alt="11" src="https://github.com/MuhammadHuzaifaG/Sales-Performance-and-Revenue-Analysis-Excel-Dashboard/blob/main/screenshots/DATASET_OVERVIEW.PNG" />
 
 ---
 
